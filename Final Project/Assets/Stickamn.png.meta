@@ -1,0 +1,1088 @@
+fileFormatVersion: 2
+guid: 9d4929413b862364ea02b9292f95691a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8169113324390763114
+    second: Stickamn_0
+  - first:
+      213: -4929575184392050227
+    second: Stickamn_1
+  - first:
+      213: -945733212024456009
+    second: Stickamn_2
+  - first:
+      213: -2637882548637060917
+    second: Stickamn_3
+  - first:
+      213: 8724952225671822456
+    second: Stickamn_4
+  - first:
+      213: 6408374570134744878
+    second: Stickamn_5
+  - first:
+      213: -3675969806573143708
+    second: Stickamn_6
+  - first:
+      213: 7051914447861822011
+    second: Stickamn_7
+  - first:
+      213: -8959888528967802604
+    second: Stickamn_8
+  - first:
+      213: -5325995260417281073
+    second: Stickamn_9
+  - first:
+      213: 7029950617997355175
+    second: Stickamn_10
+  - first:
+      213: -6982907843677616465
+    second: Stickamn_11
+  - first:
+      213: -1232144731854294917
+    second: Stickamn_12
+  - first:
+      213: -5100830052949671560
+    second: Stickamn_13
+  - first:
+      213: 6445346113440773805
+    second: Stickamn_14
+  - first:
+      213: 4840734760501367700
+    second: Stickamn_15
+  - first:
+      213: 4628422409799804394
+    second: Stickamn_16
+  - first:
+      213: -7293445200014707180
+    second: Stickamn_17
+  - first:
+      213: -6723696446396026669
+    second: Stickamn_18
+  - first:
+      213: -5094726510245339060
+    second: Stickamn_19
+  - first:
+      213: -2305412021296944326
+    second: Stickamn_20
+  - first:
+      213: -1458242970288013428
+    second: Stickamn_21
+  - first:
+      213: 3756542169548652686
+    second: Stickamn_22
+  - first:
+      213: 8537565555903328790
+    second: Stickamn_23
+  - first:
+      213: -8339698933683601131
+    second: Stickamn_24
+  - first:
+      213: 8208352814437399189
+    second: Stickamn_25
+  - first:
+      213: -5926893195949974122
+    second: Stickamn_26
+  - first:
+      213: 3728783953687045542
+    second: Stickamn_27
+  - first:
+      213: 7409533353508826842
+    second: Stickamn_28
+  - first:
+      213: 7067490548906933161
+    second: Stickamn_29
+  - first:
+      213: -3944138541704382127
+    second: Stickamn_30
+  - first:
+      213: -4587568621049855894
+    second: Stickamn_31
+  - first:
+      213: 3713049924399862993
+    second: Stickamn_32
+  - first:
+      213: -1023986829272105228
+    second: Stickamn_33
+  - first:
+      213: -1044931243553050324
+    second: Stickamn_34
+  - first:
+      213: -8567979352672962286
+    second: Stickamn_35
+  - first:
+      213: 7337346299564326370
+    second: Stickamn_36
+  - first:
+      213: 836969394008061007
+    second: Stickamn_37
+  - first:
+      213: 5884489517828849666
+    second: Stickamn_38
+  - first:
+      213: -2912602240737543881
+    second: Stickamn_39
+  - first:
+      213: -4777441952055201365
+    second: Stickamn_40
+  - first:
+      213: 8364112872291270611
+    second: Stickamn_41
+  - first:
+      213: -229819658969684908
+    second: Stickamn_42
+  - first:
+      213: 6773091061917240184
+    second: Stickamn_43
+  - first:
+      213: -7944543656849413368
+    second: Stickamn_44
+  - first:
+      213: 5761827685398801584
+    second: Stickamn_45
+  - first:
+      213: 6243909207587768740
+    second: Stickamn_46
+  - first:
+      213: -319578356407349412
+    second: Stickamn_47
+  - first:
+      213: 7220805046433558447
+    second: Stickamn_48
+  - first:
+      213: 1062698116313712643
+    second: Stickamn_49
+  - first:
+      213: 6482859497502035790
+    second: Stickamn_50
+  - first:
+      213: 2086926877561969803
+    second: Stickamn_51
+  - first:
+      213: 7972475926647237394
+    second: Stickamn_52
+  - first:
+      213: 7405417345581408883
+    second: Stickamn_53
+  - first:
+      213: -288875969413446484
+    second: Stickamn_54
+  - first:
+      213: 1522994075123193662
+    second: Stickamn_55
+  - first:
+      213: -8098244226343703996
+    second: Stickamn_56
+  - first:
+      213: -8836411319727045925
+    second: Stickamn_57
+  - first:
+      213: -2592339775280083051
+    second: Stickamn_58
+  - first:
+      213: -2372077273498367995
+    second: Stickamn_59
+  - first:
+      213: -2273421501032117955
+    second: Stickamn_60
+  - first:
+      213: -5938965537366121030
+    second: Stickamn_61
+  - first:
+      213: 8969596836918996113
+    second: Stickamn_62
+  - first:
+      213: 328406925933694217
+    second: Stickamn_63
+  - first:
+      213: 5276394142610438134
+    second: Stickamn_64
+  - first:
+      213: 1508215916107483910
+    second: Stickamn_65
+  - first:
+      213: -6237087610695812274
+    second: Stickamn_66
+  - first:
+      213: -8685199672581078674
+    second: Stickamn_67
+  - first:
+      213: 5011628038667108621
+    second: Stickamn_68
+  - first:
+      213: -5450155183528948451
+    second: Stickamn_69
+  - first:
+      213: 8693753114066852999
+    second: Stickamn_70
+  - first:
+      213: 3132202056246494897
+    second: Stickamn_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stickamn_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 200
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69537c996ba71ae80800000000000000
+      internalID: -8169113324390763114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 201
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc92bb0ec71a69bb0800000000000000
+      internalID: -4929575184392050227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 201
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc3ef487a410e2f0800000000000000
+      internalID: -945733212024456009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 209
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc039415ccb546bd0800000000000000
+      internalID: -2637882548637060917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 200
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c3c6d82d1451970800000000000000
+      internalID: 8724952225671822456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 205
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f2780f7be1fe850800000000000000
+      internalID: 6408374570134744878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 205
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4697522efe45cfcc0800000000000000
+      internalID: -3675969806573143708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 209
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bf33e3de6dd160800000000000000
+      internalID: 7051914447861822011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 201
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e6cbbad418a380800000000000000
+      internalID: -8959888528967802604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 138
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3f96b67834616b0800000000000000
+      internalID: -5325995260417281073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 137
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8254e37d66f8160800000000000000
+      internalID: 7029950617997355175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_11
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 144
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa68e4e205ab71f90800000000000000
+      internalID: -6982907843677616465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 141
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70b4f105ea86eee0800000000000000
+      internalID: -1232144731854294917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714c4a97163639b0800000000000000
+      internalID: -5100830052949671560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6f41a2428727950800000000000000
+      internalID: 6445346113440773805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 137
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493d19b0e9ebd2340800000000000000
+      internalID: 4840734760501367700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 137
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52396c8a57b3040800000000000000
+      internalID: 4628422409799804394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 139
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4167850ab3a78ca90800000000000000
+      internalID: -7293445200014707180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 76
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d03207a4b1a0b2a0800000000000000
+      internalID: -6723696446396026669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40af016b35eb49b0800000000000000
+      internalID: -5094726510245339060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 75
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b2ea13bf78100e0800000000000000
+      internalID: -2305412021296944326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 82
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb5cf9eb743cbe0800000000000000
+      internalID: -1458242970288013428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 82
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8009bf333be12430800000000000000
+      internalID: 3756542169548652686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127a3e93a68b7670800000000000000
+      internalID: 8537565555903328790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_24
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 82
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511c5146100734c80800000000000000
+      internalID: -8339698933683601131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 75
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a7e9f156de9e170800000000000000
+      internalID: 8208352814437399189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 76
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dd8b15a027fbda0800000000000000
+      internalID: -5926893195949974122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a561bbff3d4fb330800000000000000
+      internalID: 3728783953687045542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_28
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 11
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6d4fd353f3d660800000000000000
+      internalID: 7409533353508826842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab37058535c41260800000000000000
+      internalID: 7067490548906933161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 13
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15978cca4ea9349c0800000000000000
+      internalID: -3944138541704382127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 10
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60489725aea550c0800000000000000
+      internalID: -4587568621049855894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 15
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d41521db37678330800000000000000
+      internalID: 3713049924399862993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4febe8277611ac1f0800000000000000
+      internalID: -1023986829272105228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 19
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21305df198af71f0800000000000000
+      internalID: -1044931243553050324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickamn_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 11
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219fb018c2c681980800000000000000
+      internalID: -8567979352672962286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
